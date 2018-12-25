@@ -1,0 +1,72 @@
+.divOne {
+  text-align: center;
+}
+.titleHeader {
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+}
+.subHeader {
+  font-family: 'Questrial', sans-serif;
+}
+.nav-item {
+  font-family: 'Charm', cursive;
+  font-weight: bold;
+}
+body {
+  background-color: #f8f9fa;
+}
+#footer {
+  text-align: center;
+  padding-top: 50px;
+margin-bottom:o;
+}
+.footIcon {
+  color: #000;
+}
+.footIcon:hover {
+}
+.copyRight {
+  margin-bottom: 0;
+  padding-bottom: 50px;
+}
+/* about page */
+.headingTwo {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  text-decoration: underline;
+}
+.pOne {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+.manPic {
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.pic {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+/* work */
+.imgList {
+  margin-top: 20px;
+}
+/* contacts */
+.contact {
+  text-align: center;
+  padding: 0;
+  margin-top: 50px;
+}
+.extraIcon {
+  font-size: 2.3rem;
+}
+.contactText{
+  text-align: center;
+}
+.contactTextTwo {
+  margin-top: 20px;
+}
